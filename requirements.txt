@@ -1,0 +1,8 @@
+# python >= 3.7
+
+fastapi
+uvicorn
+pytest
+pydantic
+flake8
+black
